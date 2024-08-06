@@ -50,6 +50,7 @@ Zhiyuan Zhao
 -[Muhammad Fawwaz](https://github.com/FawwazRaza)**Hi!**
 - [nahowo](https://github.com/nahowo) **Hello!**
 - [wal-058](https://github.com/wal-058) **Can't believe it took me this long to start with OSS. Hi, I'm Waleed. Hopefully you are doing well, fellow coder, whoever and whereever you may be :D**
+Sparsh Salodkar
 Elisheva R
 -[Aman Jha](https://github.com/i-aman-jha/) **______________This is my first Contribution__________**
 -[Avinash KT]****Excited *****************
